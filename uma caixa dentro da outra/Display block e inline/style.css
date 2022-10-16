@@ -1,0 +1,11 @@
+div{
+  height: 100px;
+  background: blueviolet;
+  margin-bottom: 20px;
+}
+
+span{
+  width: 10px;
+  height: 100px;
+  background-color: aqua;
+}
