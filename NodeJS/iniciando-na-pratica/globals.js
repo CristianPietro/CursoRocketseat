@@ -1,0 +1,6 @@
+// Diretório local, onde está o arquivo onde estamos executando
+console.log(__dirname)
+
+// Caminho completo + nome do arquivo
+
+console.log(__filename)
